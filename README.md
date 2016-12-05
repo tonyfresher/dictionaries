@@ -15,5 +15,4 @@ Python Task
 [Anytask](http://anytask.urgu.org/course/45)
 
 # TODO:
-  - TestHashTableDict, TestBinarySearchDict
   - сравнить
